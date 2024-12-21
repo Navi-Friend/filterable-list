@@ -19,7 +19,7 @@ Technologies
 ## Installation
 - Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/filterable-list.git
+    git clone https://github.com/Navi-Friend/filterable-list.git
     ```
 - Navigate to the project directory:
     ```bash
